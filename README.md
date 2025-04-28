@@ -1,16 +1,20 @@
-## Hi there 👋
+## catuscio (Choi Gyumin)
 
-<!--
-**catuscio/catuscio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class catuscio:
+  def __init__(self):
+    self.name = "catuscio (Choi Gyumin)"
+    self.role = "AI Engineer"
+    self.email = "catuscio@hotmail.com"
+    self.linkedin = "https://www.linkedin.com/in/gyumin-choi/"
+    self.blog = "https://catuscio.github.io/"
 
-Here are some ideas to get you started:
+  def introduce(self):
+    print("안녕하세요👋 {self.role} {self.name} 입니다!")
+    print("Hi👋 I'm {self.name}, {self.role}.")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == "__main_":
+  me = catuscio()
+  me.introduce()  
+```
+
