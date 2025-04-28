@@ -1,4 +1,4 @@
-## catuscio (Choi Gyumin)
+**catuscio (Choi Gyumin)**
 
 ```python
 class catuscio:
@@ -17,4 +17,5 @@ if __name__ == "__main_":
   me = catuscio()
   me.introduce()  
 ```
+
 
