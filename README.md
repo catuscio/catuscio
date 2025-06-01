@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/gyumin-choi/">
         <img src="https://img.shields.io/badge/LinkedIn-blue">
     </a>
-    <a href="catuscio@hotmail.com">
+    <a href="mailto:catuscio@hotmail.com">
         <img src="https://img.shields.io/badge/hotmail-skyblue?logo=maildotru">
     </a>
     <a href="https://catuscio.github.io/">
@@ -38,6 +38,9 @@ if __name__ == "__main_":
 LLM, RAG, Agent에 관심이 많은 AI Engineer 최규민입니다.\
 __문제를 다양한 관점에서 해석하고 해결하는, 책임감과 리더십을 겸비한 다재다능한 엔지니어__ 입니다.
 
+## <img src="./assets/imgs/fire_1f525.png" alt="Rocket" width="25" height="25" /> Areas of Interests
+LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning, Python Backend
+
 ## <img src="./assets/imgs/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" alt="Engineer" width="25" height="25" /> Experiences
 
 | Date | Role |
@@ -52,7 +55,7 @@ __문제를 다양한 관점에서 해석하고 해결하는, 책임감과 리�
 | 2023.01 - 2024.03 | Staff (Currently Alumni) @ [**SMARCLE**](https://www.smarcle.dev/main) |
 | 2022.02 - Present | B.S in Dept. of Intelligent Mechatronics Engineering @ [**Sejong Univ**](http://imc.sejong.ac.kr/) |
 
-## <img src="./assets/imgs/hammer-and-wrench_1f6e0-fe0f.png" alt="Engineer" width="25" height="25" /> Tech Stacks
+## <img src="./assets/imgs/mechanical-arm_1f9be.png" alt="MachineArm" width="25" height="25" /> Tech Stacks
 [![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js)](https://skillicons.dev)\
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,nodejs)](https://skillicons.dev)\
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,gcp,linux)](https://skillicons.dev)\
@@ -65,3 +68,15 @@ __문제를 다양한 관점에서 해석하고 해결하는, 책임감과 리�
 ![Static Badge](https://img.shields.io/badge/streamlit-black?style=plastic&logo=streamlit)
 ... and many more!
 
+## <img src="./assets/imgs/crystal-ball_1f52e.png" alt="Rocket" width="25" height="25" /> Philosophy
+> 문제를 해결하는 가장 효과적인 방법은 내 분야 안에서 해결할 수 없는 경우가 많다.\
+> 늘 주어진 일보다 더 넓은 범위에서 생각하고, 해야만 하는 일과 하면 좋은 일을 구분하자.
+
+## <img src="./assets/imgs/rocket_1f680.png" alt="Rocket" width="25" height="25" /> How to reach me
+
+🌏**LinkedIn**: <a href="https://www.linkedin.com/in/gyumin-choi/"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
+
+📧**E-mail**: <a href="mailto:catuscio@hotmail.com"><img src="https://img.shields.io/badge/hotmail-skyblue?logo=maildotru"></a>
+
+
+☕**Coffe chat**: <a href="https://calendly.com/catuscio00/30min"><img src="https://img.shields.io/badge/Coffee_Chat-brown?style=plastic&logo=calendly"></a>
