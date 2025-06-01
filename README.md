@@ -69,7 +69,7 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 ... and many more!
 
 ## <img src="./assets/imgs/crystal-ball_1f52e.png" alt="Rocket" width="25" height="25" /> Philosophy
-> 문제를 해결하는 가장 효과적인 방법은 내 분야 안에서 해결할 수 없는 경우가 많다.\
+> 문제를 해결하는 가장 효과적인 방법은 내 일을 넘어서는 경우가 많다.\
 > 늘 주어진 일보다 더 넓은 범위에서 생각하고, 해야만 하는 일과 하면 좋은 일을 구분하자.
 
 ## <img src="./assets/imgs/rocket_1f680.png" alt="Rocket" width="25" height="25" /> How to reach me
