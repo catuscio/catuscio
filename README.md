@@ -46,7 +46,7 @@ __문제를 다양한 관점에서 해석하고 해결하는, 책임감과 리�
 | 2025.05 - Present | Community Member @ [**n8n korea**](https://slashpage.com/n8n-korea) |
 | 2025.01 - Present | Community Member @ [**LLM+RAG+Langchain Dev Community**](https://cafe.naver.com/aidev) |
 | 2025.01 - Present | Community Member @ [**Instruct.kr**](https://huggingface.co/instructkr) |
-| 2025.01 - Present | Head of Education && AI Track Lead @ [**Arom**](https://github.com/alom-sejong) |
+| 2025.01 - Present | Head of Education && AI Track Lead @ [**Alom**](https://github.com/alom-sejong) |
 | 2023.12 - 2024.12 | Undergraduate Research STudent @ [**IDEAL Lab**](https://ideallab.oopy.io/) |
 | 2024.07 - 2024.08 | [LG Aimers/Data Intelligence](https://www.lgaimers.ai/) Course Trainee
 | 2023.01 - 2024.03 | Staff (Currently Alumni) @ [**SMARCLE**](https://www.smarcle.dev/main) |
@@ -65,4 +65,3 @@ __문제를 다양한 관점에서 해석하고 해결하는, 책임감과 리�
 ![Static Badge](https://img.shields.io/badge/streamlit-black?style=plastic&logo=streamlit)
 ... and many more!
 
-![Metrics](https://metrics.lecoq.io/catuscio?template=terminal&languages=1&isocalendar=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Asia%2FSeoul)
