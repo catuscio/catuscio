@@ -94,4 +94,4 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 
 ☕**Coffee chat**: <a href="https://calendly.com/catuscio00/30min"><img src="https://img.shields.io/badge/Coffee_Chat-brown?style=plastic&logo=calendly"></a>
 
-<div align="center"> For detailed information, please visit my <a href="https://gyumin-resume.notion.site/Choi-Gyumin-1952ba8ffd4f80a4bbabe09465536ccc?source=copy_link">Notion🤗</a> </div>
+<div align="center"> For detailed information, please visit my <a href="https://gyumin-resume.notion.site/Choi-Gyumin-1952ba8ffd4f80a4bbabe09465536ccc?source=copy_link">Notion</a>🤗 </div>
