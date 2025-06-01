@@ -12,8 +12,10 @@
     <a href="https://catuscio.github.io/">
         <img src="https://img.shields.io/badge/blog-black?logo=github">
     </a>
+    <a href="https://calendly.com/catuscio00/30min">
+        <img src="https://img.shields.io/badge/Coffee_Chat-brown?style=plastic&logo=calendly">
+    </a>
 </p>
-
 
 ```python
 class catuscio:
@@ -36,7 +38,7 @@ if __name__ == "__main_":
 ## <img src="./assets/imgs/waving-hand_1f44b.png" alt="WavingHands" width="25" height="25" /> Greetings!
 > ### **Generalist with an Ownership**
 LLM, RAG, Agent에 관심이 많은 AI Engineer 최규민입니다.\
-__문제를 다양한 관점에서 해석하고 해결하는, 책임감과 리더십을 겸비한 다재다능한 엔지니어__ 입니다.
+깊이 있는 End-to-End 경험을 바탕으로 __문제를 다양한 관점에서 해석하고 해결하는, 책임감과 리더십을 겸비한 다재다능한 엔지니어__ 입니다.
 
 ## <img src="./assets/imgs/fire_1f525.png" alt="Rocket" width="25" height="25" /> Areas of Interests
 LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning, Python Backend
@@ -69,7 +71,7 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 ... and many more!
 
 ## <img src="./assets/imgs/crystal-ball_1f52e.png" alt="Rocket" width="25" height="25" /> Philosophy
-> 문제를 해결하는 가장 효과적인 방법은 내 일을 넘어서는 경우가 많다.\
+> 내 일만 해서는 문제를 해결하는 가장 효과적인 방법에 도달할 수 없다.\
 > 늘 주어진 일보다 더 넓은 범위에서 생각하고, 해야만 하는 일과 하면 좋은 일을 구분하자.
 
 ## <img src="./assets/imgs/rocket_1f680.png" alt="Rocket" width="25" height="25" /> How to reach me
@@ -80,3 +82,5 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 
 
 ☕**Coffe chat**: <a href="https://calendly.com/catuscio00/30min"><img src="https://img.shields.io/badge/Coffee_Chat-brown?style=plastic&logo=calendly"></a>
+
+<iframe src="https://gyumin-resume.notion.site/ebd/1952ba8ffd4f80a4bbabe09465536ccc" width="100%" height="600" frameborder="0" allowfullscreen />
