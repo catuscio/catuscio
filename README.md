@@ -3,18 +3,23 @@
 </h2>
 
 <p align="center">
+    <img src=./assets/imgs/hugging-face_1f917.png width="20" height="20">
     <a href="https://www.linkedin.com/in/gyumin-choi/">
         <img src="https://img.shields.io/badge/LinkedIn-blue">
-    </a>
-    <a href="mailto:catuscio@hotmail.com">
-        <img src="https://img.shields.io/badge/hotmail-skyblue?logo=maildotru">
-    </a>
-    <a href="https://catuscio.github.io/">
-        <img src="https://img.shields.io/badge/blog-black?logo=github">
     </a>
     <a href="https://calendly.com/catuscio00/30min">
         <img src="https://img.shields.io/badge/Coffee_Chat-brown?style=plastic&logo=calendly">
     </a>
+    <a href="https://gyumin-resume.notion.site/Choi-Gyumin-1952ba8ffd4f80a4bbabe09465536ccc?source=copy_link">
+        <img src="https://img.shields.io/badge/Notion-black?style=plastic&logo=notion">
+    </a>
+    <a href="https://catuscio.github.io/">
+        <img src="https://img.shields.io/badge/blog-black?logo=github">
+    </a>
+    <a href="mailto:catuscio@hotmail.com">
+        <img src="https://img.shields.io/badge/hotmail-skyblue?logo=maildotru">
+    </a>
+    <img src=./assets/imgs/hugging-face_1f917.png width="20" height="20">
 </p>
 
 ```python
@@ -31,14 +36,17 @@ class catuscio:
     print("Hi👋 I'm {self.name}, {self.role}.")
 
 if __name__ == "__main_":
-  me = catuscio()
-  me.introduce()  
+    me = catuscio()
+    me.introduce()  
 ```
 
 ## <img src="./assets/imgs/waving-hand_1f44b.png" alt="WavingHands" width="25" height="25" /> Greetings!
 > ### **Generalist with an Ownership**
 LLM, RAG, Agent에 관심이 많은 AI Engineer 최규민입니다.\
-깊이 있는 End-to-End 경험을 바탕으로 __문제를 다양한 관점에서 해석하고 해결하는, 책임감과 리더십을 겸비한 다재다능한 엔지니어__ 입니다.
+__문제를 다양한 관점에서 해석하고 해결하는, 책임감과 리더십을 겸비한 엔지니어__ 입니다.
+
+I'm Gyumin Choi, an AI Engineer specializing in LLM, RAG, and Agent systems.\
+Versatile problem-solver who brings diverse perspectives, leadership, and accountability to every project.
 
 ## <img src="./assets/imgs/fire_1f525.png" alt="Rocket" width="25" height="25" /> Areas of Interests
 LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning, Python Backend
@@ -52,10 +60,10 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 | 2025.01 - Present | Community Member @ [**LLM+RAG+Langchain Dev Community**](https://cafe.naver.com/aidev) |
 | 2025.01 - Present | Community Member @ [**Instruct.kr**](https://huggingface.co/instructkr) |
 | 2025.01 - Present | Head of Education && AI Track Lead @ [**Alom**](https://github.com/alom-sejong) |
-| 2023.12 - 2024.12 | Undergraduate Research STudent @ [**IDEAL Lab**](https://ideallab.oopy.io/) |
+| 2023.12 - 2024.12 | Undergraduate Research Student @ [**IDEAL Lab**](https://ideallab.oopy.io/) |
 | 2024.07 - 2024.08 | [LG Aimers/Data Intelligence](https://www.lgaimers.ai/) Course Trainee
 | 2023.01 - 2024.03 | Staff (Currently Alumni) @ [**SMARCLE**](https://www.smarcle.dev/main) |
-| 2022.02 - Present | B.S in Dept. of Intelligent Mechatronics Engineering @ [**Sejong Univ**](http://imc.sejong.ac.kr/) |
+| 2022.02 - Present | BS in Intelligent Mechatronics Engineering @ [**Sejong Univ**](http://imc.sejong.ac.kr/) |
 
 ## <img src="./assets/imgs/mechanical-arm_1f9be.png" alt="MachineArm" width="25" height="25" /> Tech Stacks
 [![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js)](https://skillicons.dev)\
@@ -74,6 +82,9 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 > 내 일만 해서는 문제를 해결하는 가장 효과적인 방법에 도달할 수 없다.\
 > 늘 주어진 일보다 더 넓은 범위에서 생각하고, 해야만 하는 일과 하면 좋은 일을 구분하자.
 
+> You can't reach the most effective solution by only focusing on your own tasks.\
+> Always think beyond the scope of what's assigned, and distinguish between what must be done and what would be nice to be done.
+
 ## <img src="./assets/imgs/rocket_1f680.png" alt="Rocket" width="25" height="25" /> How to reach me
 
 🌏**LinkedIn**: <a href="https://www.linkedin.com/in/gyumin-choi/"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
@@ -81,6 +92,6 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 📧**E-mail**: <a href="mailto:catuscio@hotmail.com"><img src="https://img.shields.io/badge/hotmail-skyblue?logo=maildotru"></a>
 
 
-☕**Coffe chat**: <a href="https://calendly.com/catuscio00/30min"><img src="https://img.shields.io/badge/Coffee_Chat-brown?style=plastic&logo=calendly"></a>
+☕**Coffee chat**: <a href="https://calendly.com/catuscio00/30min"><img src="https://img.shields.io/badge/Coffee_Chat-brown?style=plastic&logo=calendly"></a>
 
-<iframe src="https://gyumin-resume.notion.site/ebd/1952ba8ffd4f80a4bbabe09465536ccc" width="100%" height="600" frameborder="0" allowfullscreen />
+<div align="center"> For detailed information, please visit my <a href="https://gyumin-resume.notion.site/Choi-Gyumin-1952ba8ffd4f80a4bbabe09465536ccc?source=copy_link">Notion🤗</a> </div>
