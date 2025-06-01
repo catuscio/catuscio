@@ -2,6 +2,19 @@
     🥝catuscio (Choi Gyumin)
 </h2>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/gyumin-choi/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue">
+    </a>
+    <a href="catuscio@hotmail.com">
+        <img src="https://img.shields.io/badge/hotmail-skyblue?logo=maildotru">
+    </a>
+    <a href="https://catuscio.github.io/">
+        <img src="https://img.shields.io/badge/blog-black?logo=github">
+    </a>
+</p>
+
+
 ```python
 class catuscio:
   def __init__(self):
@@ -20,8 +33,36 @@ if __name__ == "__main_":
   me.introduce()  
 ```
 
-## Greetings!
-LLM, RAG, Agent에 관심이 많은 AI Engineer 최규민입니다.
-> **Generalist with an Ownership**
+## <img src="./assets/imgs/waving-hand_1f44b.png" alt="WavingHands" width="25" height="25" /> Greetings!
+> ### **Generalist with an Ownership**
+LLM, RAG, Agent에 관심이 많은 AI Engineer 최규민입니다.\
+__문제를 다양한 관점에서 해석하고 해결하는, 책임감과 리더십을 겸비한 다재다능한 엔지니어__ 입니다.
 
-을 모토로, 문제를 다양한 관점에서 해석하고 해결하는, 책임감 있는 다재다능한 엔지니어가 되고 싶습니다.
+## <img src="./assets/imgs/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" alt="Engineer" width="25" height="25" /> Experiences
+
+| Date | Role |
+|--|--|
+| 2025.03 - Present | AI Engineer Internship (Data Scientist) @ [**GenON**](https://genon.ai/) |
+| 2025.05 - Present | Community Member @ [**n8n korea**](https://slashpage.com/n8n-korea) |
+| 2025.01 - Present | Community Member @ [**LLM+RAG+Langchain Dev Community**](https://cafe.naver.com/aidev) |
+| 2025.01 - Present | Community Member @ [**Instruct.kr**](https://huggingface.co/instructkr) |
+| 2025.01 - Present | Head of Education && AI Track Lead @ [**Arom**](https://github.com/alom-sejong) |
+| 2023.12 - 2024.12 | Undergraduate Research STudent @ [**IDEAL Lab**](https://ideallab.oopy.io/) |
+| 2024.07 - 2024.08 | [LG Aimers/Data Intelligence](https://www.lgaimers.ai/) Course Trainee
+| 2023.01 - 2024.03 | Staff (Currently Alumni) @ [**SMARCLE**](https://www.smarcle.dev/main) |
+| 2022.02 - Present | B.S in Dept. of Intelligent Mechatronics Engineering @ [**Sejong Univ**](http://imc.sejong.ac.kr/) |
+
+## <img src="./assets/imgs/hammer-and-wrench_1f6e0-fe0f.png" alt="Engineer" width="25" height="25" /> Tech Stacks
+[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,nodejs)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,gcp,linux)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=notion,figma,vscode,visualstudio)](https://skillicons.dev)
+
+![Static Badge](https://img.shields.io/badge/huggingface-yellow?style=plastic&logo=huggingface)
+![Static Badge](https://img.shields.io/badge/LangChain-leefgreen?style=plastic&logo=langchain)
+![Static Badge](https://img.shields.io/badge/LangGraph-darkgreen?style=plastic&logo=langgraph)
+![Static Badge](https://img.shields.io/badge/pydantic-red?style=plastic&logo=pydantic)
+![Static Badge](https://img.shields.io/badge/streamlit-black?style=plastic&logo=streamlit)
+... and many more!
+
+![Metrics](https://metrics.lecoq.io/catuscio?template=terminal&languages=1&isocalendar=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Asia%2FSeoul)
