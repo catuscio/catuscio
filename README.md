@@ -13,8 +13,8 @@
     <a href="https://gyumin-resume.notion.site/Choi-Gyumin-1952ba8ffd4f80a4bbabe09465536ccc?source=copy_link">
         <img src="https://img.shields.io/badge/Notion-black?style=plastic&logo=notion">
     </a>
-    <a href="https://catuscio.github.io/">
-        <img src="https://img.shields.io/badge/blog-black?logo=github">
+    <a href="https://catuscio-blog.vercel.app/">
+        <img src="https://img.shields.io/badge/Blog-navy?logo=vercel">
     </a>
     <a href="mailto:catuscio@hotmail.com">
         <img src="https://img.shields.io/badge/hotmail-skyblue?logo=maildotru">
