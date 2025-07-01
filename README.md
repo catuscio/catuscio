@@ -29,7 +29,7 @@ class catuscio:
     self.role = "AI Engineer"
     self.email = "catuscio@hotmail.com"
     self.linkedin = "https://www.linkedin.com/in/gyumin-choi/"
-    self.blog = "https://catuscio.github.io/"
+    self.blog = "https://catuscio-blog.vercel.app/"
 
   def introduce(self):
     print("안녕하세요👋 {self.role} {self.name} 입니다!")
@@ -55,7 +55,7 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 
 | Date | Role |
 |--|--|
-| 2025.03 - Present | AI Engineer Internship (Data Scientist) @ [**GenON**](https://genon.ai/) |
+| 2025.03 - 2025.06 | AI Engineer Internship (Data Scientist) @ [**GenON**](https://genon.ai/) |
 | 2025.05 - Present | Community Member @ [**n8n korea**](https://slashpage.com/n8n-korea) |
 | 2025.01 - Present | Community Member @ [**LLM+RAG+Langchain Dev Community**](https://cafe.naver.com/aidev) |
 | 2025.01 - Present | Community Member @ [**Instruct.kr**](https://huggingface.co/instructkr) |
