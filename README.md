@@ -79,11 +79,14 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 ... and many more!
 
 ## <img src="./assets/imgs/crystal-ball_1f52e.png" alt="Rocket" width="25" height="25" /> Philosophy
-> 내 일만 해서는 문제를 해결하는 가장 효과적인 방법에 도달할 수 없다.\
-> 늘 주어진 일보다 더 넓은 범위에서 생각하고, 해야만 하는 일과 하면 좋은 일을 구분하자.
+> 내 일만 해서는 최선의 해결책에 도달할 수 없다.\
+> "You can't reach the best solution by only doing your own work."
 
-> You can't reach the most effective solution by only focusing on your own tasks.\
-> Always think beyond the scope of what's assigned, and distinguish between what must be done and what would be nice to be done.
+> "필요한 일을 찾아서 하자"\
+> "Let's find what needs to be done and do it."
+
+> "같이 일하기 편한 사람"\
+> "Someone comfortable to collaborate with"
 
 ## <img src="./assets/imgs/rocket_1f680.png" alt="Rocket" width="25" height="25" /> How to reach me
 
