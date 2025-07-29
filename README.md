@@ -55,6 +55,7 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 
 | Date | Role |
 |--|--|
+| 2025.08 - Present | Entertainment Team Image Crew Member @ [**Proact0**](https://genon.ai/) |
 | 2025.03 - 2025.06 | AI Engineer Internship (Data Scientist) @ [**GenON**](https://genon.ai/) |
 | 2025.05 - Present | Community Member @ [**n8n korea**](https://slashpage.com/n8n-korea) |
 | 2025.01 - Present | Community Member @ [**LLM+RAG+Langchain Dev Community**](https://cafe.naver.com/aidev) |
