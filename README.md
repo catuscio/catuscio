@@ -43,10 +43,7 @@ if __name__ == "__main_":
 ## <img src="./assets/imgs/waving-hand_1f44b.png" alt="WavingHands" width="25" height="25" /> Greetings!
 > ### **Generalist with an Ownership**
 LLM, RAG, Agent에 관심이 많은 AI Engineer 최규민입니다.\
-__문제를 다양한 관점에서 해석하고 해결하는, 책임감과 리더십을 겸비한 엔지니어__ 입니다.
-
-I'm Gyumin Choi, an AI Engineer specializing in LLM, RAG, and Agent systems.\
-I'd like to introduce myself as a versatile problem-solver who brings diverse perspectives, leadership, and accountability to every project.
+I'm Gyumin Choi, an AI Engineer specializing in LLM, RAG, and Agent systems.
 
 ## <img src="./assets/imgs/fire_1f525.png" alt="Rocket" width="25" height="25" /> Areas of Interests
 LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning, Python Backend
