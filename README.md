@@ -52,14 +52,14 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 
 | Date | Role |
 |--|--|
-| 2025.08 - Present | Entertainment Team Image Crew Member @ [**Proact0**](https://github.com/Proact0) |
+| 2025.08 - Present | Entertainment Team Image Crew Dev @ [**Proact0**](https://github.com/Proact0) |
 | 2025.03 - 2025.06 | AI Engineer Internship (Data Scientist) @ [**GenON**](https://genon.ai/) |
 | 2025.05 - Present | Community Member @ [**n8n korea**](https://slashpage.com/n8n-korea) |
 | 2025.01 - Present | Community Member @ [**LLM+RAG+Langchain Dev Community**](https://cafe.naver.com/aidev) |
 | 2025.01 - Present | Community Member @ [**Instruct.kr**](https://huggingface.co/instructkr) |
 | 2025.01 - Present | Head of Education && AI Track Lead @ [**Alom**](https://github.com/alom-sejong) |
 | 2023.12 - 2024.12 | Undergraduate Research Student @ [**IDEAL Lab**](https://ideallab.oopy.io/) |
-| 2024.07 - 2024.08 | [LG Aimers/Data Intelligence](https://www.lgaimers.ai/) Course Trainee
+| 2024.07 - 2024.08 | Course Trainee @ [**LG Aimers/Data Intelligence**](https://www.lgaimers.ai/)
 | 2023.01 - 2024.03 | Staff (Currently Alumni) @ [**SMARCLE**](https://www.smarcle.dev/main) |
 | 2022.02 - Present | BS in Intelligent Mechatronics Engineering @ [**Sejong Univ**](http://imc.sejong.ac.kr/) |
 
@@ -77,9 +77,6 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 ... and many more!
 
 ## <img src="./assets/imgs/crystal-ball_1f52e.png" alt="Rocket" width="25" height="25" /> Philosophy
-> 내 일만 해서는 최선의 해결책에 도달할 수 없다.\
-> "You can't reach the best solution by only doing your own work."
-
 > "필요한 일을 찾아서 하자"\
 > "Let's find what needs to be done and do it."
 
