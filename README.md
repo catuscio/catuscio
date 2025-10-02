@@ -41,7 +41,7 @@ if __name__ == "__main_":
 ```
 
 ## <img src="./assets/imgs/waving-hand_1f44b.png" alt="WavingHands" width="25" height="25" /> Greetings!
-> ### **Generalist with an Ownership**
+> ### **자립적 고속성장**
 LLM, RAG, Agent에 관심이 많은 AI Engineer 최규민입니다.\
 I'm Gyumin Choi, an AI Engineer specializing in LLM, RAG, and Agent systems.
 
