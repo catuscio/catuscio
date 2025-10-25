@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/gyumin-choi/">
         <img src="https://img.shields.io/badge/LinkedIn-blue">
     </a>
-    <a href="https://calendly.com/catuscio00/30min">
+    <a href="https://cal.com/catuscio/coffeechat">
         <img src="https://img.shields.io/badge/Coffee_Chat-brown?style=plastic&logo=calendly">
     </a>
     <a href="https://gyumin-resume.notion.site/Choi-Gyumin-1952ba8ffd4f80a4bbabe09465536ccc?source=copy_link">
@@ -90,6 +90,6 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 📧**E-mail**: <a href="mailto:catuscio@hotmail.com"><img src="https://img.shields.io/badge/hotmail-skyblue?logo=maildotru"></a>
 
 
-☕**Coffee chat**: <a href="https://calendly.com/catuscio00/30min"><img src="https://img.shields.io/badge/Coffee_Chat-brown?style=plastic&logo=calendly"></a>
+☕**Coffee chat**: <a href="https://cal.com/catuscio/coffeechat"><img src="https://img.shields.io/badge/Coffee_Chat-brown?style=plastic&logo=calendly"></a>
 
 <div align="center"> For detailed information, please refer to my <a href="https://catuscio-blog.vercel.app/resume">Blog Page</a>🤗 </div>
