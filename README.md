@@ -41,9 +41,7 @@ if __name__ == "__main_":
 ```
 
 ## <img src="./assets/imgs/waving-hand_1f44b.png" alt="WavingHands" width="25" height="25" /> Greetings!
-> ### **자립적 고속성장**
-LLM, RAG, Agent에 관심이 많은 AI Engineer 최규민입니다.\
-I'm Gyumin Choi, an AI Engineer specializing in LLM, RAG, and Agent systems.
+I love LLM Softwares.
 
 ## <img src="./assets/imgs/fire_1f525.png" alt="Rocket" width="25" height="25" /> Areas of Interests
 LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning, Python Backend
@@ -52,6 +50,8 @@ LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning,
 
 | Date | Role |
 |--|--|
+| 2025.09 - 2025.10 | AI Engineer Lead @ **Tripgether** |
+| 2025.09 - 2025.10 | LLM Software Engineer @ [**WHATsLab**](https://www.whatslab.co.kr) |
 | 2025.08 - Present | Entertainment Team Image Crew Dev @ [**Proact0**](https://github.com/Proact0) |
 | 2025.03 - 2025.06 | AI Engineer Internship (Data Scientist) @ [**GenON**](https://genon.ai/) |
 | 2025.05 - Present | Community Member @ [**n8n korea**](https://slashpage.com/n8n-korea) |
