@@ -41,15 +41,17 @@ if __name__ == "__main_":
 ```
 
 ## <img src="./assets/imgs/waving-hand_1f44b.png" alt="WavingHands" width="25" height="25" /> Greetings!
-I love LLM Softwares.
+I'm  junior AI Software Engineer and I love LLM Softwares.
 
 ## <img src="./assets/imgs/fire_1f525.png" alt="Rocket" width="25" height="25" /> Areas of Interests
-LLM, RAG, Agentic Workflow, Agent, Speech-to-Speech, LLM Reinforcement Learning, Python Backend
+AI Software Engineer building production-ready LLM applications.\
+Currently building world's best Real-time AI Golf Swing Coach at **Kaddie**
 
 ## <img src="./assets/imgs/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" alt="Engineer" width="25" height="25" /> Experiences
 
 | Date | Role |
 |--|--|
+| 2025.11 - Present | AI Engineer @ [**Kimcaddie**](https://kimcaddie.com) |
 | 2025.09 - 2025.10 | AI Engineer Lead @ **Tripgether** |
 | 2025.09 - 2025.10 | LLM Software Engineer @ [**WHATsLab**](https://www.whatslab.co.kr) |
 | 2025.08 - Present | Entertainment Team Image Crew Dev @ [**Proact0**](https://github.com/Proact0) |
