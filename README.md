@@ -41,11 +41,11 @@ if __name__ == "__main_":
 ```
 
 ## <img src="./assets/imgs/waving-hand_1f44b.png" alt="WavingHands" width="25" height="25" /> Greetings!
-I'm  junior AI Software Engineer and I love LLM Softwares.
-
-## <img src="./assets/imgs/fire_1f525.png" alt="Rocket" width="25" height="25" /> Areas of Interests
 AI Software Engineer building production-ready LLM applications.\
 Currently building world's best Real-time AI Golf Swing Coach at **Kaddie**
+
+## <img src="./assets/imgs/fire_1f525.png" alt="Rocket" width="25" height="25" /> Areas of Interests
+LLM, Agent, RAG, Speech-to-speech, Python Backend, etc
 
 ## <img src="./assets/imgs/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" alt="Engineer" width="25" height="25" /> Experiences
 
