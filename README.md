@@ -56,9 +56,6 @@ LLM, Agent, RAG, Speech-to-speech, Python Backend, etc
 | 2025.09 - 2025.10 | LLM Software Engineer @ [**WHATsLab**](https://www.whatslab.co.kr) |
 | 2025.08 - Present | Entertainment Team Image Crew Dev @ [**Proact0**](https://github.com/Proact0) |
 | 2025.03 - 2025.06 | AI Engineer Internship (Data Scientist) @ [**GenON**](https://genon.ai/) |
-| 2025.05 - Present | Community Member @ [**n8n korea**](https://slashpage.com/n8n-korea) |
-| 2025.01 - Present | Community Member @ [**LLM+RAG+Langchain Dev Community**](https://cafe.naver.com/aidev) |
-| 2025.01 - Present | Community Member @ [**Instruct.kr**](https://huggingface.co/instructkr) |
 | 2025.01 - Present | Head of Education && AI Track Lead @ [**Alom**](https://github.com/alom-sejong) |
 | 2023.12 - 2024.12 | Undergraduate Research Student @ [**IDEAL Lab**](https://ideallab.oopy.io/) |
 | 2024.07 - 2024.08 | Course Trainee @ [**LG Aimers/Data Intelligence**](https://www.lgaimers.ai/)
