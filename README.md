@@ -1,9 +1,8 @@
 <h2 align="center">
-    🥝catuscio (Choi Gyumin)
+    catuscio (Choi Gyumin)
 </h2>
 
 <p align="center">
-    <img src=./assets/imgs/hugging-face_1f917.png width="20" height="20">
     <a href="https://www.linkedin.com/in/gyumin-choi/">
         <img src="https://img.shields.io/badge/LinkedIn-blue">
     </a>
@@ -19,29 +18,12 @@
     <a href="mailto:catuscio@hotmail.com">
         <img src="https://img.shields.io/badge/hotmail-skyblue?logo=maildotru">
     </a>
-    <img src=./assets/imgs/hugging-face_1f917.png width="20" height="20">
 </p>
 
-```python
-class catuscio:
-  def __init__(self):
-    self.name = "catuscio (Choi Gyumin)"
-    self.role = "AI Engineer"
-    self.email = "catuscio@hotmail.com"
-    self.linkedin = "https://www.linkedin.com/in/gyumin-choi/"
-    self.blog = "https://catuscio-blog.vercel.app/"
-
-  def introduce(self):
-    print("안녕하세요👋 {self.role} {self.name} 입니다!")
-    print("Hi👋 I'm {self.name}, {self.role}.")
-
-if __name__ == "__main_":
-    me = catuscio()
-    me.introduce()  
-```
 
 ## <img src="./assets/imgs/waving-hand_1f44b.png" alt="WavingHands" width="25" height="25" /> Greetings!
-AI Software Engineer building production-ready LLM applications.\
+> AI Software Engineer building production-ready LLM applications.
+
 Currently building world's best Real-time AI Golf Swing Coach at **Kaddie**
 
 ## <img src="./assets/imgs/fire_1f525.png" alt="Rocket" width="25" height="25" /> Areas of Interests
@@ -83,12 +65,8 @@ LLM, Agent, RAG, Speech-to-speech, Python Backend, etc
 > "Someone comfortable to collaborate with"
 
 ## <img src="./assets/imgs/rocket_1f680.png" alt="Rocket" width="25" height="25" /> How to reach me
-
-🌏**LinkedIn**: <a href="https://www.linkedin.com/in/gyumin-choi/"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>
-
-📧**E-mail**: <a href="mailto:catuscio@hotmail.com"><img src="https://img.shields.io/badge/hotmail-skyblue?logo=maildotru"></a>
-
-
+🌏**LinkedIn**: <a href="https://www.linkedin.com/in/gyumin-choi/"><img src="https://img.shields.io/badge/LinkedIn-blue"></a>\
+📧**E-mail**: <a href="mailto:catuscio@hotmail.com"><img src="https://img.shields.io/badge/hotmail-skyblue?logo=maildotru"></a>\
 ☕**Coffee chat**: <a href="https://cal.com/catuscio/coffeechat"><img src="https://img.shields.io/badge/Coffee_Chat-brown?style=plastic&logo=calendly"></a>
 
-<div align="center"> For detailed information, please refer to my <a href="https://catuscio-blog.vercel.app/resume">Blog Page</a>🤗 </div>
+<div align="center"> For detailed information, please refer to my <a href="https://gyumin-resume.notion.site/AI-Software-Engineer-1952ba8ffd4f80a4bbabe09465536ccc?source=copy_link">Notion</a>🤗 </div>
