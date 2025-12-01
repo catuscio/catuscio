@@ -22,24 +22,29 @@
 
 
 ## <img src="./assets/imgs/waving-hand_1f44b.png" alt="WavingHands" width="25" height="25" /> Greetings!
-> AI Software Engineer building production-ready LLM applications.
+> _**Street Smart AI Software Engineer.**_
 
-Currently building world's best Real-time AI Golf Swing Coach at **Kaddie**
+I make production-ready LLM applications end-to-end.\
+Currently building world's best Real-time AI Golf Swing Coach at **Kaddie (Kimcaddie)**
 
 ## <img src="./assets/imgs/fire_1f525.png" alt="Rocket" width="25" height="25" /> Areas of Interests
-LLM, Agent, RAG, Speech-to-speech, Python Backend, etc
+LLM, Agent, RAG, Speech-to-speech, Python Backend, and everything I need to make product.
 
 ## <img src="./assets/imgs/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" alt="Engineer" width="25" height="25" /> Experiences
-
+### Career 💼
 | Date | Role |
 |--|--|
 | 2025.11 - Present | AI Engineer @ [**Kimcaddie**](https://kimcaddie.com) |
-| 2025.09 - 2025.10 | AI Engineer Lead @ **Tripgether** |
-| 2025.09 - 2025.10 | LLM Software Engineer @ [**WHATsLab**](https://www.whatslab.co.kr) |
+| 2025.09 - 2025.10 | AI Engineer Lead Freelance @ **Tripgether** |
+| 2025.09 - 2025.10 | LLM Software Engineer Freelance @ [**WHATsLab**](https://www.whatslab.co.kr) |
+| 2025.03 - 2025.06 | AI Engineer Internship @ [**GenON**](https://genon.ai/) |
+| 2023.12 - 2024.12 | Undergraduate Research Student @ [**IDEAL Lab**](https://ideal.sejong.ac.kr/) |
+
+### Activities 🎒
+| Date | Role |
+|--|--|
 | 2025.08 - Present | Entertainment Team Image Crew Dev @ [**Proact0**](https://github.com/Proact0) |
-| 2025.03 - 2025.06 | AI Engineer Internship (Data Scientist) @ [**GenON**](https://genon.ai/) |
 | 2025.01 - Present | Head of Education && AI Track Lead @ [**Alom**](https://github.com/alom-sejong) |
-| 2023.12 - 2024.12 | Undergraduate Research Student @ [**IDEAL Lab**](https://ideallab.oopy.io/) |
 | 2024.07 - 2024.08 | Course Trainee @ [**LG Aimers/Data Intelligence**](https://www.lgaimers.ai/)
 | 2023.01 - 2024.03 | Staff (Currently Alumni) @ [**SMARCLE**](https://www.smarcle.dev/main) |
 | 2022.02 - Present | BS in Intelligent Mechatronics Engineering @ [**Sejong Univ**](http://imc.sejong.ac.kr/) |
