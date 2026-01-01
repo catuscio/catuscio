@@ -34,7 +34,7 @@ LLM, Agent, RAG, Speech-to-speech, Python Backend, and everything I need to make
 ### Career 💼
 | Date | Role |
 |--|--|
-| 2025.11 - Present | AI Engineer @ [**Kimcaddie**](https://kimcaddie.career.greetinghr.com/ko/corp) |
+| 2025.11 - Present | AI Engineer @ [**Kimcaddie**]([https://kimcaddie.career.greetinghr.com/ko/corp](https://www.kaddie.golf)) |
 | 2025.09 - 2025.10 | AI Engineer Lead Freelance @ **Tripgether** |
 | 2025.09 - 2025.10 | LLM Software Engineer Freelance @ [**WHATsLab**](https://www.whatslab.co.kr) |
 | 2025.03 - 2025.06 | AI Engineer Internship @ [**GenON**](https://genon.ai/) |
