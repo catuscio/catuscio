@@ -12,7 +12,7 @@
     <a href="https://gyumin-resume.notion.site/Choi-Gyumin-1952ba8ffd4f80a4bbabe09465536ccc?source=copy_link">
         <img src="https://img.shields.io/badge/Notion-black?style=plastic&logo=notion">
     </a>
-    <a href="https://catuscio-blog.vercel.app/">
+    <a href="https://blog.gyuminlab.co.kr">
         <img src="https://img.shields.io/badge/Blog-navy?logo=vercel">
     </a>
     <a href="mailto:catuscio@hotmail.com">
@@ -74,4 +74,4 @@ LLM, Agent, RAG, Speech-to-speech, Python Backend, and everything I need to make
 📧**E-mail**: <a href="mailto:catuscio@hotmail.com"><img src="https://img.shields.io/badge/hotmail-skyblue?logo=maildotru"></a>\
 ☕**Coffee chat**: <a href="https://cal.com/catuscio/coffeechat"><img src="https://img.shields.io/badge/Coffee_Chat-brown?style=plastic&logo=calendly"></a>
 
-<div align="center"> For detailed information, please refer to my <a href="https://gyumin-resume.notion.site/AI-Software-Engineer-1952ba8ffd4f80a4bbabe09465536ccc?source=copy_link">Notion</a>🤗 </div>
+<div align="center"> For detailed information, please refer to my <a href="https://blog.gyuminlab.co.kr">Blog</a>🤗 </div>
