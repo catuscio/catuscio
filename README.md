@@ -25,7 +25,7 @@
 > _**Street Smart AI Software Engineer.**_
 
 I make production-ready LLM applications end-to-end.\
-Currently building world's best Real-time AI Golf Swing Coach at **Kaddie (Kimcaddie)**
+Currently building agent systems at **Kaddie (Kimcaddie)**
 
 ## <img src="./assets/imgs/fire_1f525.png" alt="Rocket" width="25" height="25" /> Areas of Interests
 LLM, Agent, RAG, Speech-to-speech, Python Backend, and everything I need to make product.
@@ -34,7 +34,7 @@ LLM, Agent, RAG, Speech-to-speech, Python Backend, and everything I need to make
 ### Career 💼
 | Date | Role |
 |--|--|
-| 2025.11 - Present | AI Engineer @ [**Kimcaddie**](https://www.kaddie.golf) |
+| 2025.11 - Present | AI & BE Engineer @ [**Kimcaddie**](https://www.kaddie.golf) |
 | 2025.09 - 2025.10 | AI Engineer Lead Freelance @ [**Tripgether**](https://tripgether-official.com) |
 | 2025.09 - 2025.10 | LLM Software Engineer Freelance @ [**WHATsLab**](https://www.whatslab.co.kr) |
 | 2025.03 - 2025.06 | AI Engineer Internship @ [**GenON**](https://genon.ai/) |
