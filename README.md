@@ -49,19 +49,6 @@ LLM, Agent, RAG, Speech-to-speech, Python Backend, and everything I need to make
 | 2023.01 - 2024.03 | Staff (Currently Alumni) @ [**SMARCLE**](https://www.smarcle.dev/main) |
 | 2022.02 - Present | BS in Intelligent Mechatronics Engineering @ [**Sejong Univ**](http://imc.sejong.ac.kr/) |
 
-## <img src="./assets/imgs/mechanical-arm_1f9be.png" alt="MachineArm" width="25" height="25" /> Tech Stacks
-[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,js)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,nodejs)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,gcp,linux)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=notion,figma,vscode,visualstudio)](https://skillicons.dev)
-
-![Static Badge](https://img.shields.io/badge/huggingface-yellow?style=plastic&logo=huggingface)
-![Static Badge](https://img.shields.io/badge/LangChain-leefgreen?style=plastic&logo=langchain)
-![Static Badge](https://img.shields.io/badge/LangGraph-darkgreen?style=plastic&logo=langgraph)
-![Static Badge](https://img.shields.io/badge/pydantic-red?style=plastic&logo=pydantic)
-![Static Badge](https://img.shields.io/badge/streamlit-black?style=plastic&logo=streamlit)
-... and many more!
-
 ## <img src="./assets/imgs/crystal-ball_1f52e.png" alt="Rocket" width="25" height="25" /> Philosophy
 > "필요한 일을 찾아서 하자"\
 > "Let's find what needs to be done and do it."
